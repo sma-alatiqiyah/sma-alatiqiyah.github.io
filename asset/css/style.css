@@ -194,6 +194,11 @@ header {
     width: 100%; */
 
 }
+.penerimaan{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    background-color: #91d88f;
+}
 
 /* .title-penerimaan, .sub-title{
   text-align: center;
@@ -209,6 +214,8 @@ header {
 .konten-penerimaan {
     line-height: 150%;
     max-width: 100%;
+    padding-right: 10%;
+    padding-left: 10%;
     
     min-width: 300px;
 }
