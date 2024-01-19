@@ -10,6 +10,13 @@ body {
     height: 50px;
     line-height: 50px;
 }
+.foto-beranda{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
 
 .top-contact,
 .sosmed {
